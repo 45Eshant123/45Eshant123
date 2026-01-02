@@ -15,7 +15,32 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=45Eshant123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=45Eshant123&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🔝 All Those Top Repositories Links Are Here:-
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛒 E-Commerce Platform
+🔗 https://github.com/45Eshant123/E-Commerce-  
+Tech: MERN Stack, Stripe API  
+Description: Full-stack e-commerce platform with complete backend and authentication
+
+---
+
+### 🧠 ResumeGenius Pro
+🔗 https://github.com/45Eshant123/ResumeGenius-Pro  
+Tech: FastAPI, React, OpenAI  
+Description: AI-powered resume analyzer and generator with PDF export
+
+---
+
+### 📰 Fake News Detection
+🔗 https://github.com/45Eshant123/Fake-News-Detection  
+Tech: Python, Flask, Scikit-learn  
+Description: Detects fake news using NLP and ML models
+
+---
+
+### 🖐️ Hand Gesture Recognition
+🔗 https://github.com/45Eshant123/Hand-Gesture-Recognition  
+Tech: Python, OpenCV, MediaPipe  
+Description: Real-time hand gesture recognition system
+
+---
