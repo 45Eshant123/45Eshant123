@@ -18,31 +18,31 @@
 ## 🔝 All Those Top Repositories Links Are Here:-
 
 ### 🛒 E-Commerce Platform
-🔗 https://github.com/45Eshant123/E-Commerce-  
-Tech: MERN Stack, Stripe API  
-Description: Full-stack e-commerce platform with complete backend and authentication
+- 🔗 https://github.com/45Eshant123/E-Commerce-  
+- Tech: MERN Stack, Stripe API  
+- Description: Full-stack e-commerce platform with complete backend and authentication
 
 ---
 
 ### 🧠 ResumeGenius Pro
 ##  SOON THIS PROJECT WILL BE AVAILABLE 
-🔗 https://github.com/45Eshant123/ResumeGenius-Pro  
-Tech: FastAPI, React, OpenAI  
-Description: AI-powered resume analyzer and generator with PDF export
+- 🔗 https://github.com/45Eshant123/ResumeGenius-Pro  
+- Tech: FastAPI, React, OpenAI  
+- Description: AI-powered resume analyzer and generator with PDF export
 
 ---
 
 ### 📰 ANIMATED PORT-FOLIO
-🔗 https://github.com/45Eshant123/portfolio-resume-project
-Tech: HTML5, CSS3, JavaScript, React, Vite, Tailwind CSS, Framer Motion, Three.js  
-Description: A modern, interactive portfolio website designed to showcase the skills, projects, services, and achievements of Eshant Verma, a Web Developer & Programmer.
+- 🔗 https://github.com/45Eshant123/portfolio-resume-project  
+- **Tech:** HTML5, CSS3, JavaScript, React, Vite, Tailwind CSS, Framer Motion, Three.js  
+- **Description:** A modern, interactive portfolio website designed to showcase the skills, projects, services, and achievements of Eshant Verma, a Web Developer & Programmer.
 
 ---
 
 ### 🖐️ Hand Gesture Recognition
 ##  SOON THIS PROJECT WILL BE AVAILABLE
-🔗 https://github.com/45Eshant123/Hand-Gesture-Recognition  
-Tech: Python, OpenCV, MediaPipe  
-Description: Real-time hand gesture recognition system
+- 🔗 https://github.com/45Eshant123/Hand-Gesture-Recognition  
+- Tech: Python, OpenCV, MediaPipe  
+- Description: Real-time hand gesture recognition system
 
 ---
