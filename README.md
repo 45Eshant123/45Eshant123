@@ -32,11 +32,10 @@ Description: AI-powered resume analyzer and generator with PDF export
 
 ---
 
-### 📰 Fake img and video Detection
-##  SOON THIS PROJECT WILL BE AVAILABLE
-🔗 https://github.com/45Eshant123/Fake-News-Detection  
-Tech: Python, Flask, Scikit-learn  
-Description: Detects fake news using NLP and ML models
+### 📰 ANIMATED PORT-FOLIO
+🔗 https://github.com/45Eshant123/portfolio-resume-project
+Tech: HTML5, CSS3, JavaScript, React, Vite, Tailwind CSS, Framer Motion, Three.js  
+Description: A modern, interactive portfolio website designed to showcase the skills, projects, services, and achievements of Eshant Verma, a Web Developer & Programmer.
 
 ---
 
