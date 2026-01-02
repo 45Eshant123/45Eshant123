@@ -25,13 +25,15 @@ Description: Full-stack e-commerce platform with complete backend and authentica
 ---
 
 ### 🧠 ResumeGenius Pro
+##  SOON THIS PROJECT WILL BE AVAILABLE 
 🔗 https://github.com/45Eshant123/ResumeGenius-Pro  
 Tech: FastAPI, React, OpenAI  
 Description: AI-powered resume analyzer and generator with PDF export
 
 ---
 
-### 📰 Fake News Detection
+### 📰 Fake img and video Detection
+##  SOON THIS PROJECT WILL BE AVAILABLE
 🔗 https://github.com/45Eshant123/Fake-News-Detection  
 Tech: Python, Flask, Scikit-learn  
 Description: Detects fake news using NLP and ML models
@@ -39,6 +41,7 @@ Description: Detects fake news using NLP and ML models
 ---
 
 ### 🖐️ Hand Gesture Recognition
+##  SOON THIS PROJECT WILL BE AVAILABLE
 🔗 https://github.com/45Eshant123/Hand-Gesture-Recognition  
 Tech: Python, OpenCV, MediaPipe  
 Description: Real-time hand gesture recognition system
