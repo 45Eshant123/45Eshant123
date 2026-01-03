@@ -47,8 +47,8 @@
 ---
 
 ### 🤖 JarvisXo - AI Voice Assistant
-##  SOON THIS PROJECT WILL BE AVAILABLE
-- 🔗 https://github.com/45Eshant123/JarvisXo  
+##  SOON THIS PROJECT WILL BE AVAILABLE IN A COMPLETE STRUCTURED WAY
+- 🔗 https://github.com/45Eshant123/jarvisxo.git
 - Tech: Python, openai requests, pyttsx3, SpeechRecognition, pyaudio  
 - Description: **JarvisXo** is a powerful multilingual AI voice assistant built in Python that responds to voice commands in both **English** and **Hindi**. It integrates with OpenAI's GPT for intelligent responses and can be controlled via:-
 -- **🎤 Voice Commands** (using your laptop's microphone) and it is in development phase  for more advance feature's
