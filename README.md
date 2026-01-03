@@ -24,9 +24,8 @@
 
 ---
 
-### 🧠 ResumeGenius Pro
-##  SOON THIS PROJECT WILL BE AVAILABLE 
-- 🔗 https://github.com/45Eshant123/ResumeGenius-Pro  
+### 🧠 ResumeGenius Pro 
+- 🔗 https://github.com/45Eshant123/Resume-Generator-and-analyzer.git  
 - Tech: FastAPI, React, OpenAI  
 - Description: AI-powered resume analyzer and generator with PDF export
 
@@ -44,5 +43,14 @@
 - 🔗 https://github.com/45Eshant123/Hand-Gesture-Recognition  
 - Tech: Python, OpenCV, MediaPipe  
 - Description: Real-time hand gesture recognition system
+
+---
+
+### 🤖 JarvisXo - AI Voice Assistant
+##  SOON THIS PROJECT WILL BE AVAILABLE
+- 🔗 https://github.com/45Eshant123/JarvisXo  
+- Tech: Python, openai requests, pyttsx3, SpeechRecognition, pyaudio  
+- Description: **JarvisXo** is a powerful multilingual AI voice assistant built in Python that responds to voice commands in both **English** and **Hindi**. It integrates with OpenAI's GPT for intelligent responses and can be controlled via:-
+-- **🎤 Voice Commands** (using your laptop's microphone) and it is in development phase  for more advance feature's
 
 ---
